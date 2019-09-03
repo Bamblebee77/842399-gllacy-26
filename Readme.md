@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Владислав Спицын](https://up.htmlacademy.ru/htmlcss/26/user/842399).
-* Наставник: `Брат`.
+* Наставник: `Брат`(https://up.htmlacademy.ru/htmlcss/26/user/842399).
 
 ---
 
